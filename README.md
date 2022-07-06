@@ -1,2 +1,2 @@
 # mixitup
- https://arpasaha-as.github.io/mixitup/
+  https://ratanmondal01.github.io/mixitup/
